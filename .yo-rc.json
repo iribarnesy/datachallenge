@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ippon.flr_poc",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "DataChallenge",
+    "packageName": "com.ippon.flr_poc",
+    "packageFolder": "com/ippon/flr_poc",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjU0NGUzNzU1YmE3NTc5M2YyMDllMWRhZTVhNDg2MzBiZjdiMDMyMmQ3Nzk2ZTAxODRhMGU2ZGE2NTY1NTg2NmViZGFkZjQ5NjE2OGIwNDRhY2FmOTA2ZjVhMDdhMjVmYzU2MzZjYThmZWJkMjgxODkwZDc2NmU2Mzk0ZDUyNGM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "lux",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1607182038887,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "ar-ly", "ca", "zh-cn", "en"],
+    "blueprints": []
+  }
+}
